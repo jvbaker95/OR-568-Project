@@ -1,0 +1,6 @@
+*.mp4
+*.ppt*
+*.xlsx
+Team Members.txt
+*.twb
+*.ipynb_checkpoints/*
